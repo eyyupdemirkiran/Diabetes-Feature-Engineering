@@ -1,4 +1,4 @@
-# Diabetes-Feature-Engineering
+# Diabetes Veri Seti EDA-Feature Engineering Projesi
 ![alt text](https://cic.co.ke/wp-content/uploads/2020/11/Better-Technology-Means-Better-Care-for-Diabetes-Management.jpg)
 # Özet
 Belirli parametrelere bağlı olarak, özellikleri verilen kişilerin diyabet hastası olup olmadığını tahmin edebilecek bir makine öğrenmesi modelinin eğitilmesi için veri seti hazır hale getirilmiştir.
